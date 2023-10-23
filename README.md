@@ -1,0 +1,2 @@
+# automacao_excel
+ pyautogui
